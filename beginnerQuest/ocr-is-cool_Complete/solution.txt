@@ -1,0 +1,6 @@
+-used tesseract to ocr the text
+-VMY{......} occured in the txt which seemed like a CTF{...}
+-tried caesarchiffre keys: 7 is the answer
+-CTF{cpepapcipheripapubstitutionbipher}
+-substitute weird chars 
+-CTF{caesarcipherisasubstitutioncipher}

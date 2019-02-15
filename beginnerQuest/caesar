@@ -1,0 +1,8 @@
+#!/bin/sh
+
+input=`cat $1`
+output=$2
+
+for I in $(seq 25);do
+	echo $I $input | tr $(printf %s${I}s | tr ' ' '.')\A-Z A-ZA-Z >> $output
+done
