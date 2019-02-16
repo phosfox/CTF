@@ -1,0 +1,7 @@
+-www.com is a DOS executable
+-install dosbox
+-dosbox www.com
+-in dosbox: www.com > test.txt
+-those scrambled letters are characters that are non-printable chars
+-redirecting to a file solves that
+-CTF{g00do1dDOS-FTW} is in the test.txt
