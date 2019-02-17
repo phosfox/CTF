@@ -1,0 +1,5 @@
+-unzip all the zips!!!!! binwalk -Me (was pretty useful)
+-zip2john the password protected zip
+-zip2john found.zip > hash.txt
+-john hash.txt gets you the password
+CTF{CompressionIsNotEncryption}
